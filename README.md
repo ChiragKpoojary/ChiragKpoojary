@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm currently working on: Projects related to my CSE coursework<br>👨‍🎓 I'm currently learning: Rust<br>🏫 Ask me about: My studies at NMAMIT (CSE 4rd year student)<br>💻 I'm looking to collaborate on: CSE-related projects<br>
+🚀 I'm currently working on: Projects related to my CSE coursework<br>👨‍🎓 I'm currently learning: Rust<br>🏫 Ask me about: My studies at NMAMIT (CSE 4th year student)<br>💻 I'm looking to collaborate on: CSE-related projects<br>
 
 
 # 💻 Tech Stack:
